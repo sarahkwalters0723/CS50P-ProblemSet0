@@ -1,4 +1,3 @@
-# Demonstrates a function with a positional argument
+print("hello, world")
 $ code hello.py
 $ python hello.py
-print("hello, world")
